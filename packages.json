@@ -1,3 +1,18 @@
 {
-
+  "jquery": {
+    "name": "jquery",
+    "fullName": "jQuery Library",
+    "description": "Test description",
+    "defaultVersion": "1.11.1",
+    "versions": {
+      "1.11.1": {
+        "version": "1.11.1",
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ]
+      }
+    }
+  }
 }
