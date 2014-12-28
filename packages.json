@@ -12,6 +12,10 @@
           "min",
           "origin"
         ]
+      },
+      "2.1.1" :  {
+        "version" : "2.1.1", "defaultBuild": "origin",
+        "builds": ["min", "origin"]
       }
     }
   }
