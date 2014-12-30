@@ -38,5 +38,321 @@
         "version": "2.1.3"
       }
     }
+  },
+  "angular": {
+    "name": "angular",
+    "fullName": "Angular.JS",
+    "description": "AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries.",
+    "defaultVersion": "1.2.28",
+    "url": "http://angularjs.org/",
+    "apiUrl": "http://docs.angularjs.org/api",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-animate": {
+    "name": "angular-animate",
+    "fullName": "ngAnimate",
+    "description": "The ngAnimate module provides support for JavaScript, CSS3 transition and CSS3 keyframe animation hooks within existing core and custom directives.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngAnimate",
+    "apiUrl": "https://docs.angularjs.org/api/ngAnimate",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-aria": {
+    "name": "angular-aria",
+    "fullName": "ngAria",
+    "description": "The ngAria module provides support for common ARIA attributes that convey state or semantic information about the application for users of assistive technologies, such as screen readers.",
+    "defaultVersion": "1.3.8",
+    "url": "https://docs.angularjs.org/api/ngAria",
+    "apiUrl": "https://docs.angularjs.org/api/ngAria",
+    "versions": {
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-cookies": {
+    "name": "angular-cookies",
+    "fullName": "ngCookies",
+    "description": "The ngCookies module provides a convenient wrapper for reading and writing browser cookies.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngCookies",
+    "apiUrl": "https://docs.angularjs.org/api/ngCookies",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-csp": {
+    "name": "angular-csp",
+    "fullName": "ngCsp",
+    "description": "Include this file in your html if you are using the CSP mode.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ng/directive/ngCsp",
+    "apiUrl": "https://docs.angularjs.org/api/ng/directive/ngCsp",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-loader": {
+    "name": "angular-loader",
+    "fullName": "angular-loader",
+    "description": "allows the files to load in any order",
+    "defaultVersion": "1.2.28",
+    "url": "https://github.com/angular/angular-seed/blob/master/app/index-async.html",
+    "apiUrl": "https://github.com/angular/angular-seed/blob/master/app/index-async.html",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-mocks": {
+    "name": "angular-mocks",
+    "fullName": "ngMock",
+    "description": "The ngMock module provides support to inject and mock Angular services into unit tests.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngMock",
+    "apiUrl": "https://docs.angularjs.org/api/ngMock",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-messages": {
+    "name": "angular-messages",
+    "fullName": "ngMessages",
+    "description": "ngMessages is a directive that is designed to show and hide messages based on the state of a key/value object that it listens on.",
+    "defaultVersion": "1.3.8",
+    "url": "https://docs.angularjs.org/api/ngMessages/directive/ngMessages",
+    "apiUrl": "https://docs.angularjs.org/api/ngMessages/directive/ngMessages",
+    "versions": {
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-resource": {
+    "name": "angular-resource",
+    "fullName": "ngResource",
+    "description": "The ngResource module provides interaction support with RESTful services via the $resource service.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngResource",
+    "apiUrl": "https://docs.angularjs.org/api/ngResource",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-route": {
+    "name": "angular-route",
+    "fullName": "ngRoute",
+    "description": "The ngRoute module provides routing and deeplinking services and directives for angular apps.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngRoute",
+    "apiUrl": "https://docs.angularjs.org/api/ngRoute",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-sanitize": {
+    "name": "angular-sanitize",
+    "fullName": "ngSanitize",
+    "description": "The ngSanitize module provides functionality to sanitize HTML.",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngSanitize",
+    "apiUrl": "https://docs.angularjs.org/api/ngSanitize",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-scenario": {
+    "name": "angular-scenario",
+    "fullName": "ngScenario",
+    "description": "As applications grow in size and complexity, it becomes unrealistic to rely on manual testing to verify the correctness of new features, catch bugs and notice regressions. ",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/guide/e2e-testing",
+    "apiUrl": "https://docs.angularjs.org/guide/e2e-testing",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
+  },
+  "angular-touch": {
+    "name": "angular-touch",
+    "fullName": "ngTouch",
+    "description": "The ngTouch module provides touch events and other helpers for touch-enabled devices. The implementation is based on jQuery Mobile touch event handling (jquerymobile.com)",
+    "defaultVersion": "1.2.28",
+    "url": "https://docs.angularjs.org/api/ngTouch",
+    "apiUrl": "https://docs.angularjs.org/api/ngTouch",
+    "versions": {
+      "1.2.28": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.2.28"
+      },
+      "1.3.8": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "1.3.8"
+      }
+    }
   }
 }

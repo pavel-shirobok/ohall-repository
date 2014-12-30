@@ -1,0 +1,7 @@
+{
+  "name": "angular-animate",
+  "fullName": "ngAnimate",
+  "description": "The ngAnimate module provides support for JavaScript, CSS3 transition and CSS3 keyframe animation hooks within existing core and custom directives.",
+  "url" : "https://docs.angularjs.org/api/ngAnimate",
+  "apiUrl" : "https://docs.angularjs.org/api/ngAnimate"
+}

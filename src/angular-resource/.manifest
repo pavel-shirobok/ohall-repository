@@ -1,0 +1,7 @@
+{
+  "name": "angular-resource",
+  "fullName": "ngResource",
+  "description": "The ngResource module provides interaction support with RESTful services via the $resource service.",
+  "url" : "https://docs.angularjs.org/api/ngResource",
+  "apiUrl" : "https://docs.angularjs.org/api/ngResource"
+}

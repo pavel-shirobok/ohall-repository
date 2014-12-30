@@ -1,0 +1,7 @@
+{
+  "name": "angular-aria",
+  "fullName": "ngAria",
+  "description": "The ngAria module provides support for common ARIA attributes that convey state or semantic information about the application for users of assistive technologies, such as screen readers.",
+  "url" : "https://docs.angularjs.org/api/ngAria",
+  "apiUrl" : "https://docs.angularjs.org/api/ngAria"
+}

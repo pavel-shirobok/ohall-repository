@@ -1,0 +1,7 @@
+{
+  "name": "angular-loader",
+  "fullName": "angular-loader",
+  "description": "allows the files to load in any order",
+  "url" : "https://github.com/angular/angular-seed/blob/master/app/index-async.html",
+  "apiUrl" : "https://github.com/angular/angular-seed/blob/master/app/index-async.html"
+}

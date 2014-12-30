@@ -1,0 +1,7 @@
+{
+  "name": "angular-messages",
+  "fullName": "ngMessages",
+  "description": "ngMessages is a directive that is designed to show and hide messages based on the state of a key/value object that it listens on.",
+  "url" : "https://docs.angularjs.org/api/ngMessages/directive/ngMessages",
+  "apiUrl" : "https://docs.angularjs.org/api/ngMessages/directive/ngMessages"
+}

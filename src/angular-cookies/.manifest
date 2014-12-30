@@ -1,0 +1,7 @@
+{
+  "name": "angular-cookies",
+  "fullName": "ngCookies",
+  "description": "The ngCookies module provides a convenient wrapper for reading and writing browser cookies.",
+  "url" : "https://docs.angularjs.org/api/ngCookies",
+  "apiUrl" : "https://docs.angularjs.org/api/ngCookies"
+}

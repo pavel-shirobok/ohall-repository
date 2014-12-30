@@ -1,0 +1,7 @@
+{
+  "name": "angular-sanitize",
+  "fullName": "ngSanitize",
+  "description": "The ngSanitize module provides functionality to sanitize HTML.",
+  "url" : "https://docs.angularjs.org/api/ngSanitize",
+  "apiUrl" : "https://docs.angularjs.org/api/ngSanitize"
+}

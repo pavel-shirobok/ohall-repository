@@ -1,0 +1,7 @@
+{
+  "name": "angular-route",
+  "fullName": "ngRoute",
+  "description": "The ngRoute module provides routing and deeplinking services and directives for angular apps.",
+  "url" : "https://docs.angularjs.org/api/ngRoute",
+  "apiUrl" : "https://docs.angularjs.org/api/ngRoute"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "angular-csp",
+  "fullName": "ngCsp",
+  "description": "Include this file in your html if you are using the CSP mode.",
+  "url" : "https://docs.angularjs.org/api/ng/directive/ngCsp",
+  "apiUrl" : "https://docs.angularjs.org/api/ng/directive/ngCsp"
+}
