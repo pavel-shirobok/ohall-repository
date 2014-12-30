@@ -1,0 +1,7 @@
+{
+  "name": "jquery",
+  "fullName": "jQuery2",
+  "description": "jQuery is a fast, small, and feature-rich JavaScript library.",
+  "url" : "http://jquery.com/",
+  "apiUrl" : "http://api.jquery.com/"
+}
