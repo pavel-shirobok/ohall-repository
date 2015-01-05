@@ -1,0 +1,7 @@
+{
+  "name": "bootstrap",
+  "fullName": "Bootstrap",
+  "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+  "url" : "http://getbootstrap.com/",
+  "apiUrl" : "http://getbootstrap.com/getting-started/"
+}

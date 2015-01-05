@@ -1,0 +1,7 @@
+{
+"name": "require",
+"fullName": "RequireJS",
+"description": "RequireJS is a JavaScript file and module loader. ",
+"url" : "http://requirejs.org/",
+"apiUrl" : "http://requirejs.org/docs/api.html"
+}

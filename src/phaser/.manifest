@@ -1,0 +1,7 @@
+{
+  "name": "phaser",
+  "fullName": "PhaserJS",
+  "description": "Phaser is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games.",
+  "url" : "http://phaser.io/",
+  "apiUrl" : "http://docs.phaser.io/index.html"
+}
