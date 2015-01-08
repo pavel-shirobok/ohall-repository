@@ -507,5 +507,27 @@
         "version": "0.6.1"
       }
     }
+  },
+  "lodash": {
+    "name": "lodash",
+    "fullName": "lodash",
+    "description": "A utility library delivering consistency, customization, performance, & extras.",
+    "defaultVersion": "2.4.1",
+    "url": "https://lodash.com/",
+    "apiUrl": "https://lodash.com/docs",
+    "versions": {
+      "2.4.1": {
+        "defaultBuild": "origin",
+        "builds": [
+          "compat",
+          "compat.min",
+          "min",
+          "origin",
+          "underscore",
+          "underscore.min"
+        ],
+        "version": "2.4.1"
+      }
+    }
   }
 }
