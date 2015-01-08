@@ -1,0 +1,7 @@
+{
+"name": "shape-detector",
+"fullName": "Shape Detector",
+"description": "Shape/gesture/stroke detection/recognition algorithm based on the $1 (dollar) Recognizer",
+"url" : "https://github.com/MathieuLoutre/shape-detector",
+"apiUrl" : "https://github.com/MathieuLoutre/shape-detector"
+}

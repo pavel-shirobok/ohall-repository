@@ -454,5 +454,22 @@
         "version": "4.2.0"
       }
     }
+  },
+  "shape-detector": {
+    "name": "shape-detector",
+    "fullName": "Shape Detector",
+    "description": "Shape/gesture/stroke detection/recognition algorithm based on the $1 (dollar) Recognizer",
+    "defaultVersion": "0.2.1",
+    "url": "https://github.com/MathieuLoutre/shape-detector",
+    "apiUrl": "https://github.com/MathieuLoutre/shape-detector",
+    "versions": {
+      "0.2.1": {
+        "defaultBuild": "origin",
+        "builds": [
+          "origin"
+        ],
+        "version": "0.2.1"
+      }
+    }
   }
 }
