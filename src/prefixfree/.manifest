@@ -1,0 +1,7 @@
+{
+  "name": "prefixfree",
+  "fullName": "-prefix-free",
+  "description": "lets you use only unprefixed CSS properties everywhere. It works behind the scenes, adding the current browser’s prefix to any CSS code, only when it’s needed.",
+  "url" : "http://leaverou.github.io/prefixfree/",
+  "apiUrl" : "http://leaverou.github.io/prefixfree/"
+}
