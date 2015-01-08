@@ -489,5 +489,23 @@
         "version": "1.0.7"
       }
     }
+  },
+  "angular-material": {
+    "name": "angular-material",
+    "fullName": "Angular Material",
+    "description": "Material Design for AngularJS Apps",
+    "defaultVersion": "0.6.1",
+    "url": "https://material.angularjs.org/#/",
+    "apiUrl": "https://material.angularjs.org/#/",
+    "versions": {
+      "0.6.1": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "0.6.1"
+      }
+    }
   }
 }
