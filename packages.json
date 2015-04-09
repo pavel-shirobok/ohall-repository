@@ -416,6 +416,14 @@
           "origin"
         ],
         "version": "2.2.1"
+      },
+      "2.3.0": {
+        "defaultBuild": "origin",
+        "builds": [
+          "min",
+          "origin"
+        ],
+        "version": "2.3.0"
       }
     }
   },
